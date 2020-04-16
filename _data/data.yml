@@ -7,182 +7,120 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ryland Babusiak
+    tagline: Software Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+    email: rylandbabusiak@gmail.com
+    phone: 219 448 9045
+    linkedin: ryland-babusiak-1568ba178
+    github: rylandb
+    
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
       - item: Cooking
+        link:
+
+      - item: Board & Card Games
+        link:
+
+      - item: Movies
+        link:
+        
+      - item: Mechanical Keyboards
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Spring 2020 graduate of Ball State University with a B.S. in 
+      Computer Science & a minor in Computer Technology. This curriculum and my own
+      outside interests have provided me with the opportunity to experience developing
+      with a variety of languages and tools. The CompSci capstone course has provided
+      experience with Agile development principles, Test-Driven Development, and the
+      variety of abilities necessary in developing directly for clients.
+      
+      For almost two years, I have worked in the BSU Unified Communications department 
+      of Networking. This opportunity has provided me a great deal of experience working
+      with networking devices and protocols as well as operating from the Unix command line.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: BS in Computer Science
+      university: Ball State University
+      time: 2016 - 2020
+      details: Honors College
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Capstone Project Leader
+      time: 2019 - Present
+      company: Ball State University, Muncie, IN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Complete a year-long software project to the specifications of external client, Accutech Systems
+        - Develop a sales tool using ASP.NET &amp; C# that interacts with the client’s system through RESTful API
+        - Use an Optical Character Reader to gather relevant information from a prospective customer’s brokerage statement
+        - Analyze and present data processed by client’s investment plan system to compare with current investment plan
+        - Lead a team of 4 using an Agile development cycle, meeting with client to present each release
+        - Recognize, plan for, and resolve issues that arise when working with an unfamiliar system with no source code
+        
+        Additional Selections of Coursework:
+        Data Analytics, Database Design, Advanced Programming, Network Security, Scalable Internetworking, Honors Thesis
+ 
+    - role: Technology Analyst
+      time: 2018 - Present
+      company: Ball State University, Muncie, IN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Perform support and maintenance for Ball State University&#39;s Cisco-based network infrastructure
+        - Utilize the Command Line Interface to configure devices for different roles within the network
+        - Performed service for clients by troubleshooting, diagnosis, and solution execution in collaboration with team
+        - Conducted on-the-job training, guiding and teaching newly hired student employees in the department
+        - Overhauled task assignment and management for student employees in the department
+          
+    - role: Machinery Operator
+      time: 2016 - 2018 Summers
+      company: Industrial Tool & Mfg. Co., Hammond, IN
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        - Refined material into client-provided specifications using lathes, drill presses, band saws, and CNC machines
+        - Worked collaboratively with machinists to streamline the manufacturing process to fulfill product orders on time
+        - Maintained machines by cleaning, replacing components, and refilling oil reservoirs as needed
+       
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+    
+      - name: C# & ASP.NET
+        level: 80%
+        
+      - name: Python
+        level: 70%
+        
+      - name: Java
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Agile Development
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Test-Driven Development
+        level: 80%
+        
+      - name: Unix CLI
+        level: 70%
+        
+      - name: RESTful API
+        level: 70%
+      
+      - name: Git Version Control
+        level: 60%
+      
+      - name: Network Design & Security
+        level: 75%
+        
+      - name: Interpersonal Communication
+        level: 85%
+        
+      - name: Problem Solving
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Adobe Photoshop
         level: 60%
 
 footer: >
