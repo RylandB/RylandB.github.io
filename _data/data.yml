@@ -62,7 +62,21 @@ projects:
         - Use an Optical Character Reader to gather relevant information from a prospective customer’s brokerage statement
         - Analyze and present data processed by client’s investment plan system to compare with current investment plan
         - Recognize, plan for, and resolve issues that arise when working with an unfamiliar system with no source code
-      
+        
+    - title: NetSec MACs Research Paper
+      tech: Message Authentication Codes
+      course: Network Security
+      details: |
+        - Discuss the history, development, and vulnerabilities of Message Authentication Codes
+        - MAC vs Hash-MAC
+        - Current proposed improvements to MAC
+        
+    - title: Data Visualization
+      tech: Python
+      course: Data Science
+      details: |
+        - Consume an XML, Json, or CSV file
+        - Output each column's header and the value composition of each column
 
 experiences:
     - role: Technology Analyst
