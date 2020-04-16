@@ -52,27 +52,19 @@ education:
       
 projects:
     - title: Senior Capstone Project
-      tech: "A responsive website template designed to help startups promote, market and sell their products."
-      role: "LE"
-      course: "CAp"
+      tech: "ASP.NET & ReactJS"
+      role: "Backend Development Lead"
+      course: "Software Engineering 1 & 2"
       details: |
-        - fafa
-
-experiences:
-    - role: Senior Capstone Project Leader
-      time: 2019 - Present
-      company: Ball State University, Muncie, IN
-      details: |
-        - Complete a year-long software project to the specifications of external client, Accutech Systems
+        - Year-long software project in the specifications of external client, Accutech Systems
+        - Monthly release cycle with client meetings to review additions and gather feedback
         - Develop a sales tool using ASP.NET &amp; C# that interacts with the client’s system through RESTful API
         - Use an Optical Character Reader to gather relevant information from a prospective customer’s brokerage statement
         - Analyze and present data processed by client’s investment plan system to compare with current investment plan
-        - Lead a team of 4 using an Agile development cycle, meeting with client to present each release
         - Recognize, plan for, and resolve issues that arise when working with an unfamiliar system with no source code
-        
-        Additional Selections of Coursework:
-        Data Analytics, Database Design, Advanced Programming, Network Security, Scalable Internetworking, Honors Thesis
- 
+      
+
+experiences:
     - role: Technology Analyst
       time: 2018 - Present
       company: Ball State University, Muncie, IN
