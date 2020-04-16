@@ -7,31 +7,31 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
     </span>
-    {{ projects.title }}
+    Undergrad Projects
   </h2>
+  
+  {% for project in projects %}
+  <div class="item">
 
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
+    <div class="meta">
 
-  {% for project in projects.assignments %}
-    <div class="item">
+      <div class="upper-row">
+        <h3 class="project-title">{{ project.title }}</h3>
+      </div><!--//upper-row-->
+      <div class="tech-stack">{{ project.tech }}</div>
+      <div class="role">{{ project.role }}</div>
+      <div class="course">{{ project.course }}</div>
+      
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
+    </div><!--//meta-->
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+    {% if experience.details %}
+    <div class="details">
+      {{ experience.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
-    </div><!--//item-->
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
