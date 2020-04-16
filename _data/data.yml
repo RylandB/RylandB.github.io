@@ -43,12 +43,21 @@ career-profile:
       For almost two years, I have worked in the BSU Unified Communications department 
       of Networking. This opportunity has provided me a great deal of experience working
       with networking devices and protocols as well as operating from the Unix command line.
+
 education:
     - degree: BS in Computer Science
       university: Ball State University
       time: 2016 - 2020
       details: Honors College
       
+projects:
+    - title: Senior Capstone Project
+      tech: "A responsive website template designed to help startups promote, market and sell their products."
+      role: "LE"
+      course: "CAp"
+      details: |
+        - fafa
+
 experiences:
     - role: Senior Capstone Project Leader
       time: 2019 - Present
